@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: Roberto
+  given-names: Eula
+  email: eularoberto35@gmail.com
+title: "Nastrino"
+date-released: 2026-06-10
+url: "https://github.com/robertoeula/nastrino"
